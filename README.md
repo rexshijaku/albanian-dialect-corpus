@@ -9,7 +9,7 @@ This repository provides the following information:
 
      ``Each file in any of these folders represents tweets of a specific user and each line of any file represents a single tweet.`` 
 
-In order to maintain confidentiality and protect user privacy, all identifying information about the user, including their username, has been hidden. This is done to ensure that no personally identifiable information is revealed and to respect the user's right to privacy. Users are represented in this format ``{no}``.txt where ``no`` correspond to the ordered usernames of the users in their respective folders.
+In order to maintain confidentiality and protect user privacy, all identifying information about the user, including their username, has been hidden. This is done to ensure that no personally identifiable information is revealed and to respect the user's right to privacy. Users are represented in this format ``{no}``.txt where ``no`` corresponds to the ordered usernames of the users in their respective folders.
 
 
-Finally, this corpus was used in our work ``Using Twitter to Collect a Multi-Dialectal Corpus of Albanian using advanced geotagging and dialect modeling`` which is under the review.
+Finally, this corpus was used in our work ``Using Twitter to Collect a Multi-Dialectal Corpus of Albanian using advanced geotagging and dialect modeling`` which is published here <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294284'> here</a>.
